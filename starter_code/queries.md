@@ -4,7 +4,11 @@
 
 ### 1. All the companies whose name match 'Babelgum'. Retrieve only their `name` field.
 
-<!-- Your Code Goes Here -->
+query: /You should copy/paste the query in here/
+projection: /You should copy/paste the projection in here/
+sort: /You should copy/paste the sort in here/
+skip: /You should copy/paste the skip in here/
+limit: /You should copy/paste the limit in here/
 
 ### 2. All the companies that have more than 5000 employees. Limit the search to 20 companies and sort them by **number of employees**.
 
